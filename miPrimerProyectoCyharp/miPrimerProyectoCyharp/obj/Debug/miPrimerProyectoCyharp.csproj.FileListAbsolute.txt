@@ -1,0 +1,10 @@
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\bin\Debug\miPrimerProyectoCyharp.exe.config
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\bin\Debug\miPrimerProyectoCyharp.exe
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\bin\Debug\miPrimerProyectoCyharp.pdb
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.csproj.AssemblyReference.cache
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.Form1.resources
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.Properties.Resources.resources
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.csproj.GenerateResource.cache
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.exe
+C:\Users\ernes\Desktop\progral-semi-25.git\miPrimerProyectoCyharp\miPrimerProyectoCyharp\obj\Debug\miPrimerProyectoCyharp.pdb
